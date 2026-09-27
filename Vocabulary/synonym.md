@@ -1,5 +1,5 @@
-  **Melancholy**
-----→ A deep, quiet feeling of sadness.
+  **Melancholy**:
+----→: A deep, quiet feeling of sadness.
 Syn:
 *Sadness
 *sorrow
