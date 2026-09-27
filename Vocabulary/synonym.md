@@ -395,8 +395,228 @@ Ordinary
 
 5. Examples
 
+
+ **redolent**
+1. 🌸 Having a strong smell
+
+Redolent = strongly scented or fragrant.
+
+The garden was redolent of roses.
+→ The garden smelled strongly of roses.
+
+Synonyms:
+
+Fragrant
+Aromatic
+Scented
+Perfumed
+Odorous
+
+⚠️ Odorous can be either pleasant or unpleasant, while fragrant is usually pleasant.
+
+2. 📚 Reminiscent of something
+
+Redolent of = reminding you strongly of something.
+
+The old house was redolent of her childhood.
+→ The old house strongly reminded her of her childhood.
+
+This is especially common in literature.
+
+Synonyms:
+
+Reminiscent of
+Evocative of
+Suggestive of
+Reminding one of
+🧠 Easy Memory Trick
+
+Think:
+
+REDOLENT → "smell + memory" 👃🧠
+
+A strong smell can bring back a memory.
+
+
+ **indolent**
+1. Simple Meaning
+
+Indolent = lazy; avoiding work or effort.
+
+He was too indolent to finish his assignment.
+→ He was too lazy to finish it.
+
+2. Possible meanings
+
+① Lazy / inactive 🛋️
+→ Not wanting to work or make an effort.
+
+The indolent student never studied.
+
+② Slow-moving or inactive (literary/formal)
+→ Showing little activity or energy.
+
+An indolent summer afternoon.
+
+→ A slow, relaxed, inactive afternoon.
+
+3. Synonyms
+Lazy
+Idle
+Sluggish
+Inactive
+Lethargic
+Slothful
+Shiftless
+Lackadaisical
+
+4. Antonyms
+Industrious
+Hardworking
+Diligent
+Energetic
+Active
+Industrious
+🧠 Easy Memory Trick
+
+Break it like this:
+
+IN + DOLENT
+
+Think: "I DON'T want to work!" 😴
+
 He showed tremendous courage.
 → He showed great/extreme courage.
 
 The company achieved tremendous success.
 → The company achieved huge success.
+
+
+ **prolix**
+1. Simple Meaning
+
+Prolix = using too many words, especially when fewer words would be enough.
+
+His explanation was prolix.
+→ His explanation was too long and wordy.
+
+2. Possible meanings
+
+① Too wordy / unnecessarily long
+→ Saying something with more words than necessary.
+
+② Long-winded
+→ Speaking or writing for a long time without being concise.
+
+The professor's prolix lecture bored the students.
+
+3. Synonyms
+Wordy
+Verbose
+Long-winded
+Garrulous (talking a lot)
+Loquacious (very talkative)
+Lengthy
+Circumlocutory (using many words instead of saying something directly)
+
+4. Antonyms
+Terse
+Concise
+Succinct
+Brief
+Laconic
+
+💡 Remember the pair:
+
+Prolix ↔ Terse
+Too many words ↔ Very few words
+
+
+🧠 Easy Memory Trick
+
+Think:
+
+PROLIX → "PRO + LONG"
+
+ **heedful**
+1. Simple Meaning
+
+Heedful = paying careful attention to something, especially advice, warnings, or instructions.
+
+She was heedful of her mother's advice.
+→ She paid careful attention to her mother's advice.
+
+2. Possible meanings
+
+① Attentive / careful
+→ Being alert and paying attention.
+
+② Taking notice of a warning or advice ⚠️
+→ Listening to something and acting accordingly.
+
+He was heedful of the warning signs.
+→ He noticed and took the warning seriously.
+
+3. Synonyms
+Attentive
+Careful
+Mindful
+Watchful
+Alert
+Observant
+Considerate (in some contexts)
+
+4. Antonyms
+Heedless
+Careless
+Inattentive
+Negligent
+Unmindful
+Thoughtless
+
+💡 Important pair:
+
+Heedful ↔ Heedless
+Paying attention ↔ Not paying attention
+
+
+
+
+1. Simple Meaning
+
+Doleful = very sad, sorrowful, or mournful. 😔
+
+She had a doleful expression.
+→ She had a very sad expression.
+
+2. Possible meanings
+
+① Deeply sad
+→ Showing great sadness.
+
+He gave a doleful sigh.
+
+② Expressing grief or sorrow
+→ Often used for a person, voice, sound, or atmosphere.
+
+A doleful song filled the room.
+
+→ A sad/mournful song filled the room.
+
+3. Synonyms
+Sad
+Sorrowful
+Mournful
+Melancholy
+Gloomy
+Miserable
+Woeful
+Lamenting
+
+5. Antonyms
+Cheerful
+Joyful
+Happy
+Merry
+Upbeat
+Delighted
