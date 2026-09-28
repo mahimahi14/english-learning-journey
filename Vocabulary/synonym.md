@@ -24,11 +24,11 @@ Meaning:
 
 Synonyms:
 
-Intentional
-Purposeful
-Planned
-Conscious
-Willful
+- Intentional
+- Purposeful
+- Planned
+- Conscious
+- Willful
 
 Example:
 
@@ -46,11 +46,11 @@ Meaning:
 
 Synonyms:
 
-Consider
-Think over
-Reflect
-Discuss
-Ponder
+- Consider
+- Think over
+- Reflect
+- Discuss
+- Ponder
 
 Example:
 
@@ -80,25 +80,25 @@ The food was awful.
 ③ Very great or extreme (old/formal usage)
 → An awful amount of work = a very large amount of work.
 
-3. Synonyms
+3. Synonyms:
 
 Depending on context:
 
-Terrible
-Horrible
-Dreadful
-Horrendous
-Appalling
-Atrocious
-Unpleasant
-Bad
+- Terrible
+- Horrible
+- Dreadful
+- Horrendous
+- Appalling
+- Atrocious
+- Unpleasant
+- Bad
 
-4. Antonyms
-Wonderful
-Excellent
-Pleasant
-Amazing
-Fantastic
+4. Antonyms:
+- Wonderful
+- Excellent
+- Pleasant
+- Amazing
+- Fantastic
 
 5. Examples
 
@@ -123,10 +123,10 @@ AWFUL → "AW! FULL of problems!"
 
 Synonyms:
 
-Current office-holder
-Current holder
-Existing holder
-Present occupant
+- Current office-holder
+- Current holder
+- Existing holder
+- Present occupant
 
 Example:
 
@@ -153,12 +153,12 @@ It is incumbent upon citizens to obey the law.
 = It is the responsibility/duty of citizens to obey the law.
 
 Synonyms:
-
-Obligatory
-Required
-Necessary
-Mandatory
-Dutiful
+- 
+- Obligatory
+- Required
+- Necessary
+- Mandatory
+- Dutiful
 
 🧠 Memory trick:
 Incumbent → "It's incumbent upon me" = "It's my responsibility."
@@ -182,19 +182,20 @@ Attendance at the meeting is obligatory.
 ② Required because of duty
 → You feel it is your responsibility to do it.
 
-3. Synonyms
-Mandatory — must be done
-Compulsory — must be done
-Required — necessary to do
-Necessary
-Binding — you are obligated to follow it
-Essential — absolutely needed
+3. Synonyms:
+- Mandatory — must be done
+- Compulsory — must be done
+- Required — necessary to do
+- Necessary
+- Binding — you are obligated to follow it
+- Essential — absolutely needed
 
-4. Antonyms
-Optional
-Voluntary
-Unnecessary
-Discretionary
+4. Antonyms:
+- Optional
+- Voluntary
+- Unnecessary
+- Discretionary
+  
 5. Examples
 
 Wearing a helmet is obligatory for motorcycle riders.
@@ -226,25 +227,26 @@ His reply was terse: "No."
 She gave me a terse response.
 → She replied briefly, perhaps in an unfriendly way.
 
-3. Synonyms
-Brief
-Concise
-Short
-Succinct
-Curt
-Laconic
-Pithy
+3. Synonyms:
+- Brief
+- Concise
+- Short
+- Succinct
+- Curt
+- Laconic
+- Pithy
 
 ⚠️ Difference:
 Concise is usually positive → short but clear.
 Terse can suggest → short and somewhat cold/unfriendly.
 
-4. Antonyms
-Wordy
-Lengthy
-Verbose
-Elaborate
-Detailed
+4. Antonyms:
+- Wordy
+- Lengthy
+- Verbose
+- Elaborate
+- Detailed
+  
 5. Examples
 
 The teacher gave a terse explanation.
@@ -281,29 +283,30 @@ He offended against the law.
 The smell offended my senses.
 → The smell was very unpleasant to me.
 
-3. Synonyms
+3. Synonyms:
 
 For hurt someone's feelings:
 
-Insult
-Upset
-Displease
-Anger
-Irritate
-Hurt
+- Insult
+- Upset
+- Displease
+- Anger
+- Irritate
+- Hurt
 
 For break a law/rule:
 
-Violate
-Break
-Transgress
-Disobey
-4. Antonyms
-Please
-Delight
-Satisfy
-Respect
-Admire
+- Violate
+- Break
+- Transgress
+- Disobey
+
+4. Antonyms:
+- Please
+- Delight
+- Satisfy
+- Respect
+- Admire
 
 
  **refute**
@@ -324,22 +327,23 @@ The scientist refuted the claim with evidence.
 
 She refuted his accusations.
 
-3. Synonyms
-Disprove
-Contradict
-Rebut
-Challenge
-Counter
-Invalidate
-Reject (depending on context)
+3. Synonyms:
+- Disprove
+- Contradict
+- Rebut
+- Challenge
+- Counter
+- Invalidate
+- Reject (depending on context)
 
-4. Antonyms
-Prove
-Confirm
-Support
-Validate
-Substantiate
-Corroborate
+4. Antonyms:
+- Prove
+- Confirm
+- Support
+- Validate
+- Substantiate
+- Corroborate
+  
 5. Example
 
 The lawyer refuted the accusation by presenting new evidence.
@@ -371,27 +375,28 @@ She did a tremendous job.
 The storm caused tremendous damage.
 → The storm caused very severe damage.
 
-3. Synonyms
+3. Synonyms:
 
 Depending on context:
-
-Enormous
-Huge
-Immense
-Massive
-Great
-Vast
-Exceptional
-Remarkable
-Amazing
-Excellent
-4. Antonyms
-Tiny
-Small
-Insignificant
-Minor
-Poor
-Ordinary
+- 
+- Enormous
+- Huge
+- Immense
+- Massive
+- Great
+- Vast
+- Exceptional
+- Remarkable
+- Amazing
+- Excellent
+  
+4. Antonyms:
+- Tiny
+- Small
+- Insignificant
+- Minor
+- Poor
+- Ordinary
 
 5. Examples
 
@@ -406,11 +411,11 @@ The garden was redolent of roses.
 
 Synonyms:
 
-Fragrant
-Aromatic
-Scented
-Perfumed
-Odorous
+- Fragrant
+- Aromatic
+- Scented
+- Perfumed
+- Odorous
 
 ⚠️ Odorous can be either pleasant or unpleasant, while fragrant is usually pleasant.
 
@@ -429,6 +434,7 @@ Reminiscent of
 Evocative of
 Suggestive of
 Reminding one of
+
 🧠 Easy Memory Trick
 
 Think:
@@ -460,23 +466,24 @@ An indolent summer afternoon.
 
 → A slow, relaxed, inactive afternoon.
 
-3. Synonyms
-Lazy
-Idle
-Sluggish
-Inactive
-Lethargic
-Slothful
-Shiftless
-Lackadaisical
+3. Synonyms:
+- Lazy
+- Idle
+- Sluggish
+- Inactive
+- Lethargic
+- Slothful
+- Shiftless
+- Lackadaisical
 
-4. Antonyms
-Industrious
-Hardworking
-Diligent
-Energetic
-Active
-Industrious
+4. Antonyms:
+- Industrious
+- Hardworking
+- Diligent
+- Energetic
+- Active
+- Industrious
+  
 🧠 Easy Memory Trick
 
 Break it like this:
@@ -510,21 +517,22 @@ His explanation was prolix.
 
 The professor's prolix lecture bored the students.
 
-3. Synonyms
-Wordy
-Verbose
-Long-winded
-Garrulous (talking a lot)
-Loquacious (very talkative)
-Lengthy
-Circumlocutory (using many words instead of saying something directly)
+3. Synonyms:
+   
+- Wordy
+- Verbose
+- Long-winded
+- Garrulous (talking a lot)
+- Loquacious (very talkative)
+- Lengthy
+- Circumlocutory (using many words instead of saying something directly)
 
-4. Antonyms
-Terse
-Concise
-Succinct
-Brief
-Laconic
+4. Antonyms:
+- Terse
+- Concise
+- Succinct
+- Brief
+- Laconic
 
 💡 Remember the pair:
 
@@ -557,22 +565,22 @@ She was heedful of her mother's advice.
 He was heedful of the warning signs.
 → He noticed and took the warning seriously.
 
-3. Synonyms
-Attentive
-Careful
-Mindful
-Watchful
-Alert
-Observant
-Considerate (in some contexts)
+3. Synonyms:
+- Attentive
+- Careful
+- Mindful
+- Watchful
+- Alert
+- Observant
+- Considerate (in some contexts)
 
-4. Antonyms
-Heedless
-Careless
-Inattentive
-Negligent
-Unmindful
-Thoughtless
+4. Antonyms:
+- Heedless
+- Careless
+- Inattentive
+- Negligent
+- Unmindful
+- Thoughtless
 
 💡 Important pair:
 
@@ -581,7 +589,7 @@ Paying attention ↔ Not paying attention
 
 
 
-
+ **Doleful**
 1. Simple Meaning
 
 Doleful = very sad, sorrowful, or mournful. 😔
@@ -603,20 +611,75 @@ A doleful song filled the room.
 
 → A sad/mournful song filled the room.
 
-3. Synonyms
-Sad
-Sorrowful
-Mournful
-Melancholy
-Gloomy
-Miserable
-Woeful
-Lamenting
+3. Synonyms:
+- Sad
+- Sorrowful
+- Mournful
+- Melancholy
+- Gloomy
+- Miserable
+- Woeful
+- Lamenting
 
-5. Antonyms
-Cheerful
-Joyful
-Happy
-Merry
-Upbeat
-Delighted
+5. Antonyms:
+- Cheerful
+- Joyful
+- Happy
+- Merry
+- Upbeat
+- Delighted
+
+ **abysmal**
+1. Simple Meaning
+
+Abysmal = extremely bad; terrible. 😖
+
+His performance was abysmal.
+→ His performance was extremely bad.
+
+2. Possible meanings
+
+① Extremely bad / very poor
+This is the most common modern meaning.
+
+The team's performance was abysmal.
+→ The performance was terrible.
+
+② Extremely deep / like an abyss (literal/literary)
+→ Something that seems bottomless or extremely deep.
+
+The abysmal depths of the ocean.
+→ The extremely deep depths of the ocean.
+
+3. Synonyms
+
+For extremely bad:
+
+- Terrible
+- Horrible
+- Dreadful
+- Atrocious
+- Appalling
+- Awful
+- Lousy
+- Disastrous
+
+For extremely deep:
+
+- Bottomless
+- Profound
+- Unfathomable
+  
+4. Antonyms
+- Excellent
+- Outstanding
+- Wonderful
+- Superb
+- Exceptional
+
+  
+🧠 Easy Memory Trick
+
+Think of ABYSS 🌊
+
+Abyss = a very deep hole/depth
